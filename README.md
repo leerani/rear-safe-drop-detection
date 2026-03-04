@@ -3,7 +3,7 @@
 YOLO 탐지 결과의 bbox 중심 y(t) 변화를 이용해 낙하 패턴을 감지하고, SAFE/DROP 신호를 ROS2 토픽으로 발행하는 안전 보조 노드입니다.
 
 ## Demo
-![demo](assets/safe_demo.gif)
+![demo](src/assets/safe_demo.gif)
 > Note: 하드웨어(웹캠/모델 weights) 의존으로 전체 재현 실행은 장비가 필요하며, 본 레포는 로직/파이프라인 공유 목적입니다.
 
 
